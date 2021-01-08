@@ -1,0 +1,2 @@
+# PasswordGenerator
+bash pgenerator.sh
